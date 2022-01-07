@@ -8,17 +8,20 @@ problems about parking lot.
 
 Done by:
 
+###### Jamila Alharbi
+
+###### Ghlia Maher
+
+###### Ghadeer AlGhamdi
+
 ###### Mohammad Alajmi
 
 ###### Mohammad Almalki
 
 ###### Yahya Alyubi
 
-###### Ghadeer AlGhamdi
 
-###### Jamila Alharbi
 
-###### Ghlia Maher
 
 
 
